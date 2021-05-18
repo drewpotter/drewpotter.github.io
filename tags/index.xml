@@ -5,10 +5,6 @@
     <link>https://drewpotter.com/tags/</link>
     <description>Recent content in Tags on Andrew James Potter CV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://drewpotter.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://drewpotter.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
